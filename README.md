@@ -17,8 +17,7 @@ The application follows a domain-driven design (DDD) architecture, ensuring modu
 <br>
 <table align="center">
   <tr>
-    <td><img src="https://github.com/melirossi/vet-dynamic-website/blob/master/home.JPG" alt="website" height="225"></td>
-    <td><img src="https://github.com/melirossi/vet-dynamic-website/blob/master/patients%20list.JPG" alt="tickets section" height="225"></td>
+    <td><img src="https://github.com/melirossi/homebanking-cac-back/blob/master/architecture.png" alt="architecture" height="325"></td>
   </tr>
 </table>
 <br>
